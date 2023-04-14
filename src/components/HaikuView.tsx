@@ -22,7 +22,7 @@ const HaikuView = () => {
 
   useEffect(() => {
     ApiClient({
-      url: "/sample.json", //'http://localhost:3004/haiku/',
+      url: "./sample.json", //'http://localhost:3004/haiku/',
       callback: (d: any) => {
         setData(d.haiku);
         setSelected(getRandom(d.haiku));
