@@ -1,0 +1,304 @@
+{
+  "haiku": [
+    {
+      "text": "草の戸も<ruby>住替<rt>すみかは</rt></ruby>る代ぞ<ruby>雛<rt>ひな</rt></ruby>の家",
+      "location": "江戸 - 深川",
+      "season": "春",
+      "season_word": "雛"
+    },
+    {
+      "text": "<ruby>行<rt>ゆく</rt></ruby>春や鳥<ruby>啼<rt>なき</rt></ruby>魚の目は泪",
+      "location": "江戸 - 千住",
+      "season": "春",
+      "season_word": "ゆく春"
+    },
+    {
+      "text": "あらたふと青葉若葉の日の光",
+      "location": "日光",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "<ruby>暫時<rt>しばらく</rt></ruby>は滝に籠るや<ruby>夏<rt>げ</rt></ruby>の<ruby>初<rt>はじめ</rt></ruby>",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "夏山に<ruby>足駄<rt>あしだ</rt></ruby>を拝む<ruby>首途<rt>かどで</rt></ruby>哉",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "<ruby>木啄<rt>きつつき</rt></ruby>も<ruby>庵<rt>いほ</rt></ruby>は破らず<ruby>夏木立<rt>なつこだち</rt></ruby>",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "野を横に馬<ruby>牽向<rt>ひきむけ</rt></ruby>よほとゝぎす",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "田一枚<ruby>植<rt>うゑ</rt></ruby>て<ruby>立<rt>たち</rt></ruby>去る柳かな",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "風流の<ruby>初<rt>はじめ</rt></ruby>や奥の田植歌",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "世の人の見<ruby>付<rt>つけ</rt></ruby>ぬ花や軒の栗",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "早苗とる手もとや昔しのぶ<ruby>摺<rt>ずり</rt></ruby>",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "<ruby>笈<rt>おひ</rt></ruby>も太刀も<ruby>五月<rt>さつき</rt></ruby>にかざれ<ruby>帋幟<rt>かみのぼり</rt></ruby>",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "笠島はいづこ五月のぬかり道",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "桜より松は<ruby>二木<rt>ふたき</rt></ruby>を<ruby>三月越<rt>みつきご</rt></ruby>し",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "あやめ<ruby>草<rt>ぐさ</rt></ruby>足に<ruby>結<rt>むす</rt></ruby>ばん<ruby>草鞋<rt>わらぢ</rt></ruby>の緒",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "夏草や<ruby>兵<rt>つはもの</rt></ruby>どもが夢の跡",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "<ruby>五月雨<rt>さみだれ</rt></ruby>の降ふり残してや光堂",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "<ruby>蚤虱<rt>のみしらみ</rt></ruby>馬の<ruby>尿<rt>ばり</rt></ruby>する枕もと",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "涼しさを<ruby>我<rt>わが</rt></ruby>宿にしてねまる也",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "<ruby>這出<rt>はひいで</rt></ruby>よ<ruby>飼<rt>か</rt></ruby>ひ屋が下の<ruby>蟾<rt>ひき</rt></ruby>の声",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "<ruby>眉掃<rt>まゆはき</rt></ruby>を<ruby>俤<rt>おもかげ</rt></ruby>にして<ruby>紅粉<rt>べに</rt></ruby>の花",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "<ruby>閑<rt>しづか</rt></ruby>さや岩にしみ<ruby>入<rt>い</rt></ruby>る蝉の声",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "五月雨を集めて早し最上川",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "<ruby>有難<rt>ありがた</rt></ruby>や雪をかをらす南谷",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "涼しさやほの三日月の羽黒山",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "雲の峰幾つ<ruby>崩<rt>くづ</rt></ruby>れて月の山",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "語られぬ<ruby>湯殿<rt>ゆどの</rt></ruby>にぬらす<ruby>袂<rt>たもと</rt></ruby>かな",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "あつみ山や<ruby>吹浦<rt>ふくうら</rt></ruby>かけて夕涼み",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "暑き日を海に入れたり最上川",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "<ruby>象潟<rt>きさがた</rt></ruby>や雨に<ruby>西施<rt>せいし</rt></ruby>が<ruby>合歓<rt>ねぶ</rt></ruby>の花",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "<ruby>汐越<rt>しほごし</rt></ruby>や鶴<ruby>脛<rt>はぎ</rt></ruby>ぬれて海涼し",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "<ruby>文月<rt>ふみづき</rt></ruby>や六日も常の夜には似ず",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "荒海や佐渡に横たふ<ruby>天河<rt>あまのがは</rt></ruby>",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "<ruby>一家<rt>ひとつや</rt></ruby>に遊女も寝たり<ruby>萩<rt>はぎ</rt></ruby>と月",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "<ruby>早稲<rt>わせ</rt></ruby>の香や<ruby>分入<rt>わけいる</rt></ruby>右は<ruby>有磯海<rt>ありそうみ</rt></ruby>",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "塚も動け<ruby>我泣声<rt>わがなくこゑ</rt></ruby>は秋の風",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "秋涼し<ruby>手毎<rt>てごと</rt></ruby>にむけや<ruby>瓜茄子<rt>うりなすび</rt></ruby>",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "あかあかと日は<ruby>難面<rt>つれなく</rt></ruby>も秋の風",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "しをらしき名や<ruby>小松<rt>こまつ</rt></ruby>吹ふく<ruby>萩<rt>はぎ</rt></ruby>すゝき",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "むざんやな<ruby>甲<rt>かぶと</rt></ruby>の下のきりぎりす",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "石山の石より白し秋の風",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "山中や菊はたをらぬ湯の<ruby>匂<rt>にほひ</rt></ruby>",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "今日よりや<ruby>書付<rt>かきつけ</rt></ruby>消さん笠の露",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "庭<ruby>掃<rt>はき</rt></ruby>て<ruby>出<rt>いで</rt></ruby>ばや寺に<ruby>散<rt>ちる</rt></ruby>柳",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "物<ruby>書<rt>かき</rt></ruby>て扇<ruby>引<rt>ひき</rt></ruby>さく<ruby>余波<rt>なごり</rt></ruby>哉",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "月清し<ruby>遊行<rt>ゆぎやう</rt></ruby>の持てる砂の上",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "名月や北国<ruby>日和<rt>びより</rt></ruby><ruby>定<rt>さだめ</rt></ruby>なき",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "寂しさや須磨に勝ちたる浜の秋",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "<ruby>浪<rt>なみ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>や<ruby>小貝<rt>こがひ</rt></ruby>にまじる<ruby>萩<rt>はぎ</rt></ruby>の<ruby>塵<rt>ちり</rt></ruby>",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    },
+    {
+      "text": "<ruby>蛤<rt>はまぐり</rt></ruby>のふたみに別れ<ruby>行<rt>ゆく</rt></ruby>秋ぞ",
+      "location": "",
+      "season": "",
+      "season_word": ""
+    }
+  ]
+}
