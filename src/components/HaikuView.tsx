@@ -2,6 +2,8 @@ import { useCallback, useEffect, useState } from "react";
 import { ApiClient } from "../lib/apiClient";
 import HaikuSwiper from "./HaikuSwiper";
 import { Haiku } from "../types/Haiku";
+import HaikuInfo from "./HaikuInfo";
+import HaikuNumber from "./HaikuNumber";
 
 const HaikuView = () => {
   const [data, setData] = useState<Array<Haiku>>([]);
@@ -36,8 +38,9 @@ const HaikuView = () => {
         {selected !== null && <HaikuSwiper data={data} selectedNumber={selected} onChange={changeHandlr} />}
       </div>
       <div className="fixed left-[50%] top-0 translate-x-[-50%] p-2">
-        {selected !== null && data.length !== 0 ? `${selected + 1} / ${data.length}` : undefined}
+        {selected !== null && data.length !== 0 ? <HaikuNumber count={selected} total={data.length} /> : undefined}
       </div>
+      <div className="fixed left-0 top-0 p-2 text-sm">{selected !== null && <HaikuInfo data={data[selected]} />}</div>
       <button
         type="button"
         onClick={() => {
